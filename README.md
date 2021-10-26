@@ -1,1 +1,1 @@
-# my-third-repo
+ez életem harmadik github repoja
